@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="675" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#17161e"/>
+      <stop offset="55%" stop-color="#221e2e"/>
+      <stop offset="100%" stop-color="#2f2718"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="160" y1="470" x2="1040" y2="140" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#d49b27"/>
+      <stop offset="50%" stop-color="#f5c95c"/>
+      <stop offset="100%" stop-color="#ffe699"/>
+    </linearGradient>
+    <linearGradient id="area" x1="0" y1="180" x2="0" y2="560" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#f5c95c" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#f5c95c" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <g opacity="0.14" stroke="#f5c95c" stroke-width="1">
+    <line x1="120" y1="140" x2="1080" y2="140"/>
+    <line x1="120" y1="245" x2="1080" y2="245"/>
+    <line x1="120" y1="350" x2="1080" y2="350"/>
+    <line x1="120" y1="455" x2="1080" y2="455"/>
+    <line x1="120" y1="560" x2="1080" y2="560"/>
+  </g>
+  <path d="M140 495 C230 485, 270 350, 325 365 C375 378, 410 470, 485 450 C560 430, 610 265, 675 280 C745 296, 770 390, 835 355 C900 320, 955 190, 1060 155 L1060 560 L140 560 Z" fill="url(#area)"/>
+  <path d="M140 495 C230 485, 270 350, 325 365 C375 378, 410 470, 485 450 C560 430, 610 265, 675 280 C745 296, 770 390, 835 355 C900 320, 955 190, 1060 155" stroke="url(#gold)" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="325" cy="365" r="8" fill="#17161e" stroke="#f5c95c" stroke-width="4"/>
+  <circle cx="485" cy="450" r="8" fill="#17161e" stroke="#f5c95c" stroke-width="4"/>
+  <circle cx="675" cy="280" r="8" fill="#17161e" stroke="#f5c95c" stroke-width="4"/>
+  <circle cx="835" cy="355" r="8" fill="#17161e" stroke="#f5c95c" stroke-width="4"/>
+  <circle cx="1060" cy="155" r="10" fill="#ffe699"/>
+  <g transform="translate(140 92)">
+    <rect width="176" height="40" rx="20" fill="#f5c95c" fill-opacity="0.16" stroke="#f5c95c" stroke-opacity="0.45"/>
+    <text x="88" y="25" text-anchor="middle" fill="#ffe699" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">XAU · GLOBAL</text>
+  </g>
+</svg>

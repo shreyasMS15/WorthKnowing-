@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://worthknowing.pages.dev/sitemap.xml

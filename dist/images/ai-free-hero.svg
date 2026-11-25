@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" fill="none">
+  <rect width="1200" height="675" fill="#1c1629"/>
+  <circle cx="600" cy="340" r="145" stroke="#a78bfa" stroke-width="4" stroke-dasharray="10 10"/>
+  <circle cx="600" cy="340" r="85" fill="#3d32b8" fill-opacity="0.45" stroke="#c4b5fd" stroke-width="4"/>
+  <circle cx="600" cy="340" r="24" fill="#ffe699"/>
+  <rect x="120" y="88" width="190" height="40" rx="20" fill="#c4b5fd" fill-opacity="0.14" stroke="#c4b5fd" stroke-opacity="0.45"/>
+  <text x="215" y="113" text-anchor="middle" fill="#e9d5ff" font-family="system-ui, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">AI ECONOMICS</text>
+</svg>
